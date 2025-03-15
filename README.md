@@ -183,4 +183,4 @@ A: Currently, LocalDrive works through a web interface that's fully responsive a
 
 ---
 
-<p align="center">Copyright © 2024 Ranjan Developer - GNU GPL v3</p>
+<p align="center">Copyright © 2025 Ranjan Developer - GNU GPL v3</p>
