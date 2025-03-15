@@ -1,0 +1,20 @@
+# LocalDrive Requirements
+# Python 3.8 or higher recommended
+
+# Core dependencies
+Flask==2.2.3
+Werkzeug==2.2.3  # Required by Flask, specific version for compatibility 
+humanize==4.6.0
+Pillow==9.5.0
+pystray==0.19.4
+pywin32==306; sys_platform == 'win32'
+qrcode[pil]==7.4.2
+requests==2.31.0
+
+# Build requirements
+pyinstaller==6.0.0; python_version >= '3.7'
+
+# Development tools (optional)
+# pytest==7.3.1
+# black==23.3.0
+# flake8==6.0.0

@@ -1,0 +1,8 @@
+{
+    "autostart_server": false,
+    "theme": "blue",
+    "startup_with_windows": false,
+    "context_menu": false,
+    "start_minimized": false,
+    "exit_behavior": "ask"
+}

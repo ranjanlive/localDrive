@@ -1,0 +1,17 @@
+LocalDrive is Free Software
+==========================
+
+LocalDrive is free software released under the GNU General Public License version 3.0 (GNU GPL).
+
+You have the freedom to:
+• Run the program for any purpose
+• Study how the program works and modify it
+• Redistribute copies of the original program
+• Distribute copies of your modified versions
+
+The GNU GPL is a copyleft license, which means that derivative work can only be distributed under the same license.
+
+For more information, see the full GNU GPL license included with this software or visit:
+https://www.gnu.org/licenses/gpl-3.0.html
+
+The next page will show the full license text, which you must accept to install the software.
